@@ -27,7 +27,7 @@ body {
   display: flex;
   width: 100%;
   top: 0;
-  lef: 0;
+  left: 0;
 }
 .navigation ul li {
   position: relative;
